@@ -1,0 +1,36 @@
+
+
+Version:	3.12
+CmdLine:	D:\KULIAH\SEMESTER 7\KP\Desa\dist\Pendataan Penduduk.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\KULIAH\SEMESTER 7\KP\Desa\dist\.
+Java min ver:	1.000.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_241
+Ignore:		1.008.000_241
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.8
+Check launcher:	C:\Program Files\Java\jdk-11.0.8\bin\javaw.exe (OK)
+Match:		1.011.000_008
+Check:		SOFTWARE\JavaSoft\JDK\14
+Check launcher:	C:\Program Files\Java\jdk-14\bin\javaw.exe (OK)
+Match:		1.014.000
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-jar "D:\KULIAH\SEMESTER 7\KP\Desa\dist\Pendataan Penduduk.exe"
+Args length:	63/32768 chars
+Exit code:	0
