@@ -23,3 +23,6 @@ Tutorial menjalankan aplikasi pendataan penduduk sebagai berikut:
 5. Taruh file TEMPLATE.xlsx yang sudah download tadi di folder D:\Laporan Penduduk\Template
 6. File yang nanti data perbulan yang di export berada di D:\Laporan Penduduk\ dengan nama file {bulan tahun.xlsx}
 7. Untuk executable aplikasi berada di Desa\dist disitu ada file bernama Pendataan Penduduk
+
+Note :
+Jika Error karena tidak ada library pada saat membuka file di netbeans untuk librarynya bisa ada betulkan di Desa\dist\lib disitu lah library yang di gunakan
