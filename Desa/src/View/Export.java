@@ -57,7 +57,6 @@ public class Export extends javax.swing.JFrame {
             XSSFSheet sheet1 = workbook.getSheetAt(2);
             XSSFSheet sheet2 = workbook.getSheetAt(3);
             XSSFSheet sheet3 = workbook.getSheetAt(1);
-            XSSFSheet sheet4 = workbook.getSheetAt(4);
             org.apache.poi.ss.usermodel.Cell cell = null;
             
             //Update Kedatangan
